@@ -16,9 +16,21 @@ public class Program
         */
 
         // Number of 1 Bits
+        /*
         NumberOf1Bits num = new NumberOf1Bits();
         int res1 = num.count(7);
         Console.WriteLine("The Number of 1 Bits is : "+res1);
+        */
+        
+        // Counting Bits
+        CountingBits num2 = new CountingBits();
+        int[] arr =  num2.countBits(4);
+
+        foreach (int i in arr)
+        {
+            Console.WriteLine(arr[i]);
+        }
+
 
 
 
