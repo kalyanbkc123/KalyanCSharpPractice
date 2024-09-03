@@ -5,6 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>KalyanCSharpPractice._09_03_2024.HappyNumber</StartupObject>
   </PropertyGroup>
 
 </Project>
