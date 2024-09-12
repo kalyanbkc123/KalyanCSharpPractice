@@ -8,7 +8,7 @@ namespace KalyanCSharpPractice._09_04_2024
 {
     internal class MinCostClimbingStairs
     {
-
+        /*
         
         public int minCostClimbingStairs(int[] cost)
         {
@@ -18,6 +18,7 @@ namespace KalyanCSharpPractice._09_04_2024
             }s
             return Math.min(cost[0], cost[1]);
         }
+        */
     
 
     }
