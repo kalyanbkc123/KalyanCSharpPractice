@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>KalyanCSharpPractice._09_06_2024.ProductOfArrayExceptSelf</StartupObject>
+    <StartupObject>KalyanCSharpPractice._09_13_2024.LongestRepeatingCharacterReplacement</StartupObject>
   </PropertyGroup>
 
 </Project>
